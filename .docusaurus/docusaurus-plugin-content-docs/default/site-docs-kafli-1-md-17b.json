@@ -1,0 +1,18 @@
+{
+  "unversionedId": "kafli1",
+  "id": "kafli1",
+  "isDocsHomePage": false,
+  "title": "Almenn ákvæði",
+  "description": "1. HLUTI ALMENN ÁKVÆÐI",
+  "source": "@site/docs/kafli1.md",
+  "slug": "/1",
+  "permalink": "/docs/1",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli1.md",
+  "version": "current",
+  "sidebar_label": "Almenn ákvæði",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Stjórn mannvirkjamála",
+    "permalink": "/docs/2"
+  }
+}

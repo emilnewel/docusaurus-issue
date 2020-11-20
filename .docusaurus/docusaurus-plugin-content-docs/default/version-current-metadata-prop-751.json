@@ -1,0 +1,31 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Table Of Contents",
+        "items": [
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/docs/doc1"
+          },
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/doc1": "someSidebar",
+    "/docs/": "someSidebar"
+  }
+}

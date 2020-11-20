@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli3",
+  "id": "kafli3",
+  "isDocsHomePage": false,
+  "title": "Faggilding, eftirlit og úttektir",
+  "description": "3. HLUTI FAGGILDING, EFTIRLIT OG ÚTTEKTIR",
+  "source": "@site/docs/kafli3.md",
+  "slug": "/3",
+  "permalink": "/docs/3",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli3.md",
+  "version": "current",
+  "sidebar_label": "Faggilding, eftirlit og úttektir",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Stjórn mannvirkjamála",
+    "permalink": "/docs/2"
+  },
+  "next": {
+    "title": "Hönnuðir, byggingarstjórar og iðnmeistarar",
+    "permalink": "/docs/4"
+  }
+}

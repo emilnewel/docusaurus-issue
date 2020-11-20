@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli2",
+  "id": "kafli2",
+  "isDocsHomePage": false,
+  "title": "Stjórn mannvirkjamála",
+  "description": "2. HLUTI STJÓRN MANNVIRKJAMÁLA",
+  "source": "@site/docs/kafli2.md",
+  "slug": "/2",
+  "permalink": "/docs/2",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli2.md",
+  "version": "current",
+  "sidebar_label": "Stjórn mannvirkjamála",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Almenn ákvæði",
+    "permalink": "/docs/1"
+  },
+  "next": {
+    "title": "Faggilding, eftirlit og úttektir",
+    "permalink": "/docs/3"
+  }
+}

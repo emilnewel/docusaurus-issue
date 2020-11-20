@@ -1,0 +1,18 @@
+{
+  "unversionedId": "kafli17",
+  "id": "kafli17",
+  "isDocsHomePage": false,
+  "title": "Ýmis ákvæði",
+  "description": "17. HLUTI. ÝMIS ÁKVÆÐI",
+  "source": "@site/docs/kafli17.md",
+  "slug": "/17",
+  "permalink": "/docs/17",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli17.md",
+  "version": "current",
+  "sidebar_label": "Ýmis ákvæði",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rekstur, viðhald og notkun – handbækur",
+    "permalink": "/docs/16"
+  }
+}

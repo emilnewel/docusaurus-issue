@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli5",
+  "id": "kafli5",
+  "isDocsHomePage": false,
+  "title": "Byggingarvörur",
+  "description": "5. HLUTI BYGGINGARVÖRUR",
+  "source": "@site/docs/kafli5.md",
+  "slug": "/5",
+  "permalink": "/docs/5",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli5.md",
+  "version": "current",
+  "sidebar_label": "Byggingarvörur",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Hönnuðir, byggingarstjórar og iðnmeistarar",
+    "permalink": "/docs/4"
+  },
+  "next": {
+    "title": "Aðkoma, umferðarleiðir og innri rými mannvirkja",
+    "permalink": "/docs/6"
+  }
+}

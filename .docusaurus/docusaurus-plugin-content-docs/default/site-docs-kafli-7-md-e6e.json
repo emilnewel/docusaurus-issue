@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli7",
+  "id": "kafli7",
+  "isDocsHomePage": false,
+  "title": "Útisvæði við mannvirki",
+  "description": "7. HLUTI ÚTISVÆÐI VIÐ MANNVIRKI",
+  "source": "@site/docs/kafli7.md",
+  "slug": "/7",
+  "permalink": "/docs/7",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli7.md",
+  "version": "current",
+  "sidebar_label": "Útisvæði við mannvirki",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Aðkoma, umferðarleiðir og innri rými mannvirkja",
+    "permalink": "/docs/6"
+  },
+  "next": {
+    "title": "Burðarþol og stöðugleiki",
+    "permalink": "/docs/8"
+  }
+}

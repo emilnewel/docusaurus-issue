@@ -1,0 +1,12 @@
+{
+  "unversionedId": "undirkafli2",
+  "id": "undirkafli2",
+  "isDocsHomePage": false,
+  "title": "Efnisyfirlit",
+  "source": "@site/docs/test2.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/test2.md",
+  "version": "current",
+  "sidebar_label": "Efnisyfirlit"
+}

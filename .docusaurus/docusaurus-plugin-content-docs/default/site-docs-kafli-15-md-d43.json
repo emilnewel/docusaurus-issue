@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli15",
+  "id": "kafli15",
+  "isDocsHomePage": false,
+  "title": "Mengun frá mannvirkjum og meðhöndlun byggingar- og niðurrifsúrgangs",
+  "description": "15. HLUTI MENGUN FRÁ MANNVIRKJUM OG MEÐHÖNDLUN BYGGINGAR- OG NIÐURRIFSÚRGANGS",
+  "source": "@site/docs/kafli15.md",
+  "slug": "/15",
+  "permalink": "/docs/15",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli15.md",
+  "version": "current",
+  "sidebar_label": "Mengun frá mannvirkjum og meðhöndlun byggingar- og niðurrifsúrgangs",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Lagnir og tæknibúnaður",
+    "permalink": "/docs/14"
+  },
+  "next": {
+    "title": "Rekstur, viðhald og notkun – handbækur",
+    "permalink": "/docs/16"
+  }
+}

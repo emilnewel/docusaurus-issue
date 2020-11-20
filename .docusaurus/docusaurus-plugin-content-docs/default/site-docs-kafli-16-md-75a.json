@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli16",
+  "id": "kafli16",
+  "isDocsHomePage": false,
+  "title": "Rekstur, viðhald og notkun – handbækur",
+  "description": "16. HLUTI REKSTUR, VIÐHALD OG NOTKUN – HANDBÆKUR",
+  "source": "@site/docs/kafli16.md",
+  "slug": "/16",
+  "permalink": "/docs/16",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli16.md",
+  "version": "current",
+  "sidebar_label": "Rekstur, viðhald og notkun – handbækur",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Mengun frá mannvirkjum og meðhöndlun byggingar- og niðurrifsúrgangs",
+    "permalink": "/docs/15"
+  },
+  "next": {
+    "title": "Ýmis ákvæði",
+    "permalink": "/docs/17"
+  }
+}

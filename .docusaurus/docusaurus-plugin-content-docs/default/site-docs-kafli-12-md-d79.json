@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli12",
+  "id": "kafli12",
+  "isDocsHomePage": false,
+  "title": "Öryggi við notkun",
+  "description": "12. HLUTI ÖRYGGI VIÐ NOTKUN",
+  "source": "@site/docs/kafli12.md",
+  "slug": "/12",
+  "permalink": "/docs/12",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli12.md",
+  "version": "current",
+  "sidebar_label": "Öryggi við notkun",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Hljóðvist",
+    "permalink": "/docs/11"
+  },
+  "next": {
+    "title": "Orkusparnaður og hitaeinangrun",
+    "permalink": "/docs/13"
+  }
+}

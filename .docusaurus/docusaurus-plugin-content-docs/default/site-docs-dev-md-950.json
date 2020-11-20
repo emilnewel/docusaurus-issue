@@ -1,0 +1,12 @@
+{
+  "unversionedId": "dev",
+  "id": "dev",
+  "isDocsHomePage": false,
+  "title": "Byggingarreglugerð DEV",
+  "description": "`",
+  "source": "@site/docs/dev.md",
+  "slug": "/dev",
+  "permalink": "/docs/dev",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/dev.md",
+  "version": "current"
+}

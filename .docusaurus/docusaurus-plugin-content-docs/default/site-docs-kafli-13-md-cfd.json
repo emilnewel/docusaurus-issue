@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli13",
+  "id": "kafli13",
+  "isDocsHomePage": false,
+  "title": "Orkusparnaður og hitaeinangrun",
+  "description": "13. HLUTI ORKUSPARNAÐUR OG HITAEINANGRUN",
+  "source": "@site/docs/kafli13.md",
+  "slug": "/13",
+  "permalink": "/docs/13",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli13.md",
+  "version": "current",
+  "sidebar_label": "Orkusparnaður og hitaeinangrun",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Öryggi við notkun",
+    "permalink": "/docs/12"
+  },
+  "next": {
+    "title": "Lagnir og tæknibúnaður",
+    "permalink": "/docs/14"
+  }
+}

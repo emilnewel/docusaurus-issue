@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli10",
+  "id": "kafli10",
+  "isDocsHomePage": false,
+  "title": "Hollusta, heilsa og umhverfi",
+  "description": "10. HLUTI HOLLUSTA, HEILSA OG UMHVERFI",
+  "source": "@site/docs/kafli10.md",
+  "slug": "/10",
+  "permalink": "/docs/10",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli10.md",
+  "version": "current",
+  "sidebar_label": "Hollusta, heilsa og umhverfi",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Varnir gegn eldsvoða",
+    "permalink": "/docs/9"
+  },
+  "next": {
+    "title": "Hljóðvist",
+    "permalink": "/docs/11"
+  }
+}

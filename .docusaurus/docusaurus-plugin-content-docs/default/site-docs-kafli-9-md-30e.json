@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli9",
+  "id": "kafli9",
+  "isDocsHomePage": false,
+  "title": "Varnir gegn eldsvoða",
+  "description": "9. HLUTI VARNIR GEGN ELDSVOÐA",
+  "source": "@site/docs/kafli9.md",
+  "slug": "/9",
+  "permalink": "/docs/9",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli9.md",
+  "version": "current",
+  "sidebar_label": "Varnir gegn eldsvoða",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Burðarþol og stöðugleiki",
+    "permalink": "/docs/8"
+  },
+  "next": {
+    "title": "Hollusta, heilsa og umhverfi",
+    "permalink": "/docs/10"
+  }
+}

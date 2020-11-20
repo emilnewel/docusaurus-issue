@@ -1,0 +1,12 @@
+{
+  "unversionedId": "undirfafli1",
+  "id": "undirfafli1",
+  "isDocsHomePage": false,
+  "title": "Efnisyfirlit",
+  "source": "@site/docs/test3.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/test3.md",
+  "version": "current",
+  "sidebar_label": "Efnisyfirlit"
+}

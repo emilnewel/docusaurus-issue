@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli4",
+  "id": "kafli4",
+  "isDocsHomePage": false,
+  "title": "Hönnuðir, byggingarstjórar og iðnmeistarar",
+  "description": "4. HLUTI HÖNNUÐIR, BYGGINGARSTJÓRAR OG IÐNMEISTARAR",
+  "source": "@site/docs/kafli4.md",
+  "slug": "/4",
+  "permalink": "/docs/4",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli4.md",
+  "version": "current",
+  "sidebar_label": "Hönnuðir, byggingarstjórar og iðnmeistarar",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Faggilding, eftirlit og úttektir",
+    "permalink": "/docs/3"
+  },
+  "next": {
+    "title": "Byggingarvörur",
+    "permalink": "/docs/5"
+  }
+}

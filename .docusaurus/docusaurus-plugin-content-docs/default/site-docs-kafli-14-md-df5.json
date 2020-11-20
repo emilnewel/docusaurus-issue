@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli14",
+  "id": "kafli14",
+  "isDocsHomePage": false,
+  "title": "Lagnir og tæknibúnaður",
+  "description": "14. HLUTI LAGNIR OG TÆKNIBÚNAÐUR",
+  "source": "@site/docs/kafli14.md",
+  "slug": "/14",
+  "permalink": "/docs/14",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli14.md",
+  "version": "current",
+  "sidebar_label": "Lagnir og tæknibúnaður",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Orkusparnaður og hitaeinangrun",
+    "permalink": "/docs/13"
+  },
+  "next": {
+    "title": "Mengun frá mannvirkjum og meðhöndlun byggingar- og niðurrifsúrgangs",
+    "permalink": "/docs/15"
+  }
+}

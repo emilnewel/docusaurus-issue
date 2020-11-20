@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli6",
+  "id": "kafli6",
+  "isDocsHomePage": false,
+  "title": "Aðkoma, umferðarleiðir og innri rými mannvirkja",
+  "description": "6. HLUTI AÐKOMA, UMFERÐARLEIÐIR OG INNRI RÝMI MANNVIRKJA",
+  "source": "@site/docs/kafli6.md",
+  "slug": "/6",
+  "permalink": "/docs/6",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli6.md",
+  "version": "current",
+  "sidebar_label": "Aðkoma, umferðarleiðir og innri rými mannvirkja",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Byggingarvörur",
+    "permalink": "/docs/5"
+  },
+  "next": {
+    "title": "Útisvæði við mannvirki",
+    "permalink": "/docs/7"
+  }
+}

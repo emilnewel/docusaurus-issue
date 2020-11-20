@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli8",
+  "id": "kafli8",
+  "isDocsHomePage": false,
+  "title": "Burðarþol og stöðugleiki",
+  "description": "8. HLUTI BURÐARÞOL OG STÖÐUGLEIKI",
+  "source": "@site/docs/kafli8.md",
+  "slug": "/8",
+  "permalink": "/docs/8",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli8.md",
+  "version": "current",
+  "sidebar_label": "Burðarþol og stöðugleiki",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Útisvæði við mannvirki",
+    "permalink": "/docs/7"
+  },
+  "next": {
+    "title": "Varnir gegn eldsvoða",
+    "permalink": "/docs/9"
+  }
+}

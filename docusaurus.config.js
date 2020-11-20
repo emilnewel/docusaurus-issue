@@ -1,12 +1,12 @@
 module.exports = {
-  title: "Byggingarreglugerð",
-  tagline: "Húsnæðis- og mannvirkjastofnun",
-  url: "https://byggingarreglugerd.netlify.app",
+  title: "Reproducible demo",
+  tagline: "Some tagline",
+  url: "https://example.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "emilnewel", // Usually your GitHub org/user name.
-  projectName: "byggingarreglugerd.is", // Usually your repo name.
+  projectName: "Issue", // Usually your repo name.
   plugins: ["my-loaders"],
   themeConfig: {
     colorMode: {
@@ -17,19 +17,15 @@ module.exports = {
     collapsed: true,
     hideableSidebar: true,
     navbar: {
-      title: "Byggingarreglugerð",
-      logo: {
-        alt: "HMS",
-        src: "img/hmsLogo.svg",
-      },
+      title: "Reproducible demo",
       items: [
         {
           to: "docs",
           activeBasePath: "docs",
-          label: "Reglur",
+          label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Fréttir", position: "left" },
+        { to: "blog", label: "Blog", position: "left" },
       ],
     },
     footer: {

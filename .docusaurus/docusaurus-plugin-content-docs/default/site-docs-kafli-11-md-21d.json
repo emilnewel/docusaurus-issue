@@ -1,0 +1,22 @@
+{
+  "unversionedId": "kafli11",
+  "id": "kafli11",
+  "isDocsHomePage": false,
+  "title": "Hljóðvist",
+  "description": "11. HLUTI HLJÓÐVIST",
+  "source": "@site/docs/kafli11.md",
+  "slug": "/11",
+  "permalink": "/docs/11",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/kafli11.md",
+  "version": "current",
+  "sidebar_label": "Hljóðvist",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Hollusta, heilsa og umhverfi",
+    "permalink": "/docs/10"
+  },
+  "next": {
+    "title": "Öryggi við notkun",
+    "permalink": "/docs/12"
+  }
+}
