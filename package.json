@@ -1,0 +1,39 @@
+{
+  "name": "my-website",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "prod": "docusaurus build && docusaurus serve"
+  },
+  "dependencies": {
+    "@docusaurus/core": "2.0.0-alpha.68",
+    "@docusaurus/preset-classic": "2.0.0-alpha.68",
+    "@mdx-js/react": "^1.5.8",
+    "@opendocsg/pdf2md": "^0.1.16",
+    "clsx": "^1.1.1",
+    "docusaurus-plugin-sass": "^0.1.11",
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^7.0.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "my-loader": "file:plugins/my-loaders"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

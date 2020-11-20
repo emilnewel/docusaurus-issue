@@ -1,0 +1,582 @@
+---
+id: efnisyfirlit
+title: Efnisyfirlit
+sidebar_label: Efnisyfirlit
+slug: /
+hide_title: true
+hide_table_of_contents: true
+---
+
+```
+Uppfærð 10. janúar 2019. Breytingar eru birtar í reglugerðum nr. 1173/2012, 350/2013, 280/2014, 360/2016,
+666/2016, 722/2017, 669/2018 og 1278/2018. Ef þessu skjali ber ekki saman við texta ofangreindra
+reglugerða eins og hann er birtur í B-deild Stjórnartíðinda gildir textinn sem birtur er í Stjórnartíðindum.
+```
+# Byggingarreglugerð
+
+# nr. 112/
+
+## Með breytingum, efnisyfirliti og atriðaorðaskrá
+
+## EFNISYFIRLIT
+
+- 1. HLUTI ALMENN ÁKVÆÐI
+- 1.1. KAFLI Markmið og gildissvið.
+   - 1.1.1. gr. Markmið.
+   - 1.1.2. gr. Gildissvið.
+- 1.2. KAFLI Skilgreiningar, staðlar og viðmið.
+   - 1.2.1. gr. Skilgreiningar.
+   - 1.2.2. gr. Staðlar og tilvísanir.
+- 2. HLUTI STJÓRN MANNVIRKJAMÁLA
+- 2.1. KAFLI Almennt um stjórn mannvirkjamála.
+   - 2.1.1. gr. Hlutverk Mannvirkjastofnunar.
+   - 2.1.2. gr. Hlutverk sveitarfélaga.
+- 2.2. KAFLI Gagnasafn og rannsóknir.
+   - 2.2.1. gr. Gagnasafn Mannvirkjastofnunar.
+   - 2.2.2. gr. Rannsóknir á slysum og tjónum.
+- 2.3. KAFLI Byggingarleyfisskyldar framkvæmdir.
+   - 2.3.1. gr. Byggingarleyfisskyldar framkvæmdir.
+   - 2.3.2. gr. Byggingarleyfi byggingarfulltrúa.
+   - 2.3.3. gr. Byggingarleyfi Mannvirkjastofnunar.
+   - 2.3.4. gr. Breyting er varðar útlit eða form mannvirkis.
+   - 2.3.5. gr. Minniháttar framkvæmdir undanþegnar byggingarleyfi.
+   - [2.3.6. gr. Málsmeðferð vegna tilkynntra framkvæmda.
+   - byggingarleyfi. [2.3.7. gr.]1) Skyldur eiganda mannvirkis vegna framkvæmda sem undanþegnar eru
+- 2.4. KAFLI Byggingarleyfið.
+   - 2.4.1. gr. Umsókn um byggingarleyfi.
+   - 2.4.2. gr. Samþykkt byggingaráforma.
+   - 2.4.3. gr. Sérstakar kröfur.
+   - 2.4.4. gr. Útgáfa byggingarleyfis.
+   - [...]
+   - 2.4.5. gr. Gildistími byggingarleyfis og stöðvun framkvæmda.
+   - 2.4.6. gr. Niðurfelling byggingarleyfis og önnur úrræði vegna brota.
+- 2.5. KAFLI. Skilti.
+   - 2.5.1. gr. Almennar kröfur.
+   - 2.5.2. gr. Öryggiskröfur.
+- 2.6. KAFLI Stöðuleyfi.
+   - 2.6.1. gr. Umsókn um stöðuleyfi.
+   - 2.6.2. gr. Heimild leyfisveitanda til að fjarlægja lausafjármuni.
+- 2.7. KAFLI Ábyrgð eiganda mannvirkis.
+   - 2.7.1. gr. Hlutverk og ábyrgð aðila.
+- 2.8. KAFLI Leyfisveitandi.
+   - 2.8.1. gr. Hlutverk leyfisveitanda.
+- 2.9. KAFLI. Þvingunarúrræði og viðbrögð við brotum.
+   - 2.9.1. gr. Stöðvun framkvæmda, lokun mannvirkis o.fl.
+   - 2.9.2. gr. Aðgerðir til að knýja fram úrbætur.
+   - 2.9.3. gr. Áminning og missir löggildingar eða starfsleyfis.
+- 3. HLUTI FAGGILDING, EFTIRLIT OG ÚTTEKTIR
+- 3.1. KAFLI Aðgangur að mannvirki, gögn á byggingarstað og umsagnir.
+   - 3.1.1. gr. Aðgangur að mannvirki.
+   - 3.1.2. gr. Gögn á byggingarstað.
+   - 3.1.3. gr. Umsagnir annarra eftirlitsaðila og ráðgjafa.
+- 3.2. KAFLI Faggilding leyfisveitanda.
+   - 3.2.1. gr. Faggilding.
+- 3.3. KAFLI Faggiltar skoðunarstofur.
+   - 3.3.1. gr. Eftirlit skoðunarstofu.
+   - 3.3.2. gr. Greiðsla kostnaðar.
+   - 3.3.3. gr Hlutverk leyfisveitanda vegna starfa skoðunarstofu.
+   - 3.3.4. gr. Starfsleyfi skoðunarstofu.
+   - 3.3.5. gr. Svipting starfsleyfis.
+- 3.4. KAFLI. Skoðunarmenn.
+   - 3.4.1. gr. Menntunar- og starfsreynslukröfur skoðunarmanna.
+   - 3.4.2. gr. Starfsheimild skoðunarmanns I.
+   - 3.4.3. gr. Starfsheimild skoðunarmanns II.
+   - 3.4.4. gr. Starfsheimild skoðunarmanns III.
+   - 3.4.5. gr. Flokkun framkvæmda vegna starfsheimilda skoðunarmanna.
+- 3.5. KAFLI Skoðunarhandbækur o.fl.
+   - 3.5.1. gr. Skoðunarhandbækur og skoðunarskýrslur.
+   - 3.5.2. gr. Ágreiningur um skoðunarhandbók og tilhögun eftirlits.
+- 3.6. KAFLI Yfirferð hönnunargagna o.fl.
+   - 3.6.1. gr. [Samþykkt hönnunargagna.
+   - 3.6.2. gr. Greinargerð um ábyrgðarsvið.
+   - [3.6.3. gr.]1)2) Ófullnægjandi eða röng hönnunargögn.
+- 3.7. KAFLI Úttektir á mannvirkjum.
+   - [3.7.1. gr.] 1) Framkvæmd áfangaúttekta.
+   - [3.7.2. gr.]1) Áfangaúttektir vegna sérstakra eða óvenjulegra framkvæmda o.fl.
+   - [3.7.3. gr.]1) [Stöðuskoðanir leyfisveitanda.
+   - [3.7.4. gr.]1) Áfangaúttektir.
+   - [3.7.5. gr.]1) Vanræksla og önnur sambærileg háttsemi.
+- 3.8. KAFLI Öryggisúttekt.
+   - 3.8.1. gr. Framkvæmd öryggisúttektar.
+   - [3.8.2. gr. Gögn vegna öryggisúttektar.]1)
+   - [3.8.3. gr. Niðurstaða öryggisúttektar.
+   - [3.8.4. gr.]1) Vottorð um öryggisúttekt.
+- 3.9. KAFLI Lokaúttekt.
+   - 3.9.1. gr. Framkvæmd lokaúttektar.
+   - 3.9.2. gr. Gögn vegna lokaúttektar.
+   - [3.9.3. gr. Niðurstaða lokaúttektar.
+   - [3.9.4. gr.]1) Vottorð um lokaúttekt.
+- 3.10. KAFLI Eftirlit með byggðu umhverfi.
+   - 3.10.1. gr. Hlutverk byggingarfulltrúa.
+- 4. HLUTI HÖNNUÐIR, BYGGINGARSTJÓRAR OG IÐNMEISTARAR
+- 4.1. KAFLI Hönnuðir.
+   - 4.1.1. gr. Ábyrgð og hlutverk hönnuða.
+   - 4.1.2. gr. Hönnunarstjóri.
+   - 4.1.3. gr. Greinargerð hönnunarstjóra um ábyrgðarsvið hönnuða.
+- 4.2. KAFLI Hönnunargögn.
+   - 4.2.1. gr. Almennar kröfur.
+   - 4.2.2. gr. Almennt um hönnunargögn.
+   - 4.2.3. gr. Almennt um uppdrætti.
+- 4.3. KAFLI Aðaluppdrættir og byggingarlýsing.
+   - 4.3.1. gr. Aðaluppdrættir.
+   - 4.3.2. gr. Málsetning.
+   - 4.3.3. gr. Brunavarnir.
+   - 4.3.4. gr. Loftræsing.
+   - 4.3.5. gr. Votrými.
+   - 4.3.6. gr. Inntök, heimtaugar og sorpgeymsla.
+   - 4.3.7. gr. Sérstök mannvirki.
+   - 4.3.8. gr. Uppdráttur af breytingum.
+   - 4.3.9. gr. Byggingarlýsing.
+- 4.4. KAFLI Aðrir uppdrættir.
+   - 4.4.1. gr. [Séruppdrættir og aðrir uppdrættir.
+   - 4.4.2. gr. Byggingaruppdrættir.
+   - 4.4.3. gr. Innréttingauppdrættir.
+   - 4.4.4. gr. Lóðauppdrættir.
+   - 4.4.5. gr. Burðarvirkisuppdrættir.
+   - 4.4.6. gr. Lagnakerfauppdrættir.
+- 4.5. KAFLI Aðrir þættir hönnunargagna.
+   - 4.5.1. gr. Upplýst um sérstakan tæknibúnað.
+   - 4.5.2. gr. Upplýsingar um efniseiginleika byggingarvöru.
+   - 4.5.3. gr. Greinargerðir hönnuða.
+   - 4.5.4. gr. Efnisyfirlit hönnunargagna.
+   - 4.5.5. gr. Yfirlit yfir útreikninga, rökstuðning og aðrar forsendur hönnunar.
+- 4.6. KAFLI. Gæðastjórnunarkerfi hönnuða og hönnunarstjóra.
+   - 4.6.1. gr. Kröfur.
+- 4.7. KAFLI Byggingarstjórar.
+   - 4.7.1. gr. Hlutverk byggingarstjóra.
+   - 4.7.2. gr. Ábyrgð byggingarstjóra á verkþáttum mannvirkjagerðar.
+   - 4.7.3. gr. Starfsleyfi byggingarstjóra.
+   - 4.7.4. gr. Flokkun starfsheimilda byggingarstjóra.
+   - 4.7.5. gr. Hæfniskröfur byggingarstjóra.
+   - 4.7.6. gr. Heimild fyrirtækja og stofnana til að bera ábyrgð sem byggingarstjórar.
+   - 4.7.7. gr. Ábyrgð og verksvið byggingarstjóra.
+   - 4.7.8. gr. Byggingarstjóraskipti.
+- 4.8. KAFLI Gæðastjórnunarkerfi byggingarstjóra.
+   - 4.8.1. gr. Kröfur.
+- 4.9. KAFLI Samningur byggingarstjóra og eiganda.
+   - 4.9.1. gr. Kröfur.
+- 4.10. KAFLI. Iðnmeistarar.
+   - 4.10.1. gr. Ábyrgð og verksvið iðnmeistara.
+   - 4.10.2. gr. Gæðastjórnunarkerfi iðnmeistara.
+   - [4.10.3. gr.]1) Iðnmeistaraskipti.
+- 4.11. KAFLI Byggingarvinnustaðurinn.
+   - 4.11.1. gr. Umgengni.
+   - 4.11.2. gr. Umgengni um lagnir innan lóðar.
+   - 4.11.3. gr. Öryggismál.
+   - 4.11.4. gr. Aðstaða fyrir starfsmenn.
+- 5. HLUTI BYGGINGARVÖRUR
+- 5.1. KAFLI Sannprófun eiginleika byggingarvöru.
+   - [5.1.1. gr.]1) Notkun byggingarvöru og ábyrgð eiganda mannvirkis.
+   - [5.1.2. gr. Frístundahús til flutnings.
+- 6. HLUTI AÐKOMA, UMFERÐARLEIÐIR OG INNRI RÝMI MANNVIRKJA
+- 6.1. KAFLI Markmið og algild hönnun.
+   - 6.1.1. gr. Markmið.
+   - 6.1.2. gr. Almennt um algilda hönnun.
+   - 6.1.3. gr. Kröfur um algilda hönnun.
+   - 6.1.4. gr. Stærðir rýma og umferðarmál.
+   - 6.1.5. gr. Breyting á þegar byggðu mannvirki eða breytt notkun.
+   - [6.1.6. gr. Framsetning krafna.
+- 6.2. KAFLI Aðkoma og staðsetning.
+   - 6.2.1. gr. [Staðsetning byggingar.
+   - 6.2.2. gr. [Aðkomuleiðir og umferðarsvæði innan lóðar.
+   - 6.2.3. gr. Algild hönnun aðkomu að byggingum.
+   - [6.2.4. gr.]1) Bílastæði hreyfihamlaðra.
+- 6.3. KAFLI Ytra form og hjúpur mannvirkja.
+   - 6.3.1. gr. Ytra form.
+   - 6.3.2. gr. Hjúpur byggingar.
+- 6.4. KAFLI Umferðarleiðir innan bygginga.
+   - 6.4.1. gr. Markmið.
+   - 6.4.2. gr. [Inngangsdyr/útidyr og svala-/garðdyr.
+   - 6.4.3. gr. [Dyr innanhúss.
+   - 6.4.4. gr. [Gangar og anddyri.
+   - 6.4.5. gr. Jöfnun hæðarmunar og algild hönnun.
+   - 6.4.6. gr. Stigar, tröppur og þrep.
+   - 6.4.7. gr. Stigapallar.
+   - 6.4.8. gr. Stigar og tröppur – breidd og lofthæð.
+   - 6.4.9. gr. Stigar og tröppur – Gönguhlutfall, framstig, uppstig, skilgreiningar o.fl.
+   - 6.4.10. gr. Sveigðar tröppur, hringstigar og útitröppur.
+   - 6.4.11. gr. [Skábrautir og hæðarmunur.
+   - 6.4.12. gr. [Lyftur og lyftupallar.
+- 6.5. KAFLI Handrið og handlistar.
+   - 6.5.1. gr. Almennt.
+   - 6.5.2. gr. Frágangur handlista.
+   - 6.5.3. gr. Frágangur handriðs.
+   - 6.5.4. gr. Hæð handriðs.
+   - 6.5.5. gr. Vörn gegn slysum á börnum.
+- 6.6. KAFLI Skilti, leiðbeiningar, handföng o.fl. vegna algildrar hönnunar.
+   - 6.6.1. gr. [Almennar kröfur.
+- 6.7. KAFLI Íbúðir og íbúðarhús.
+   - 6.7.1. gr. [Almennar kröfur til íbúða.
+   - 6.7.2. gr. [Lofthæð og birtuskilyrði.
+   - 6.7.3. gr. [Íbúðir hannaðar á grundvelli algildrar hönnunar.
+   - 6.7.4. gr. Íbúðir í kjallara og á jarðhæð.
+   - 6.7.5. gr. [Votrými.
+   - 6.7.6. gr. [Svalir og svalaskýli.
+- 6.8. KAFLI Byggingar til annarra nota en íbúðar.
+   - 6.8.1. gr. Almennt.
+   - 6.8.2. gr. [Lofthæð og birtuskilyrði.
+   - 6.8.3. gr. Algild hönnun snyrtinga og baðherbergja.
+   - 6.8.4. gr. Fjöldi og gerð snyrtinga.
+   - 6.8.5. gr. Kaffi- og mataraðstaða á vinnustöðum.
+   - 6.8.6. gr. Búningsherbergi og baðaðstaða á vinnustöðum.
+- 6.9. KAFLI Samkomuhús, verslunarhúsnæði, iðnaðarhúsnæði, skólar o.fl.
+   - 6.9.1. gr. Samkomuhús.
+   - 6.9.2. gr. Verslunar-, skrifstofu- og iðnaðarhúsnæði.
+   - 6.9.3. gr. Skólar.
+- 6.10. KAFLI Hótel, gististaðir, heimavistir, stúdentagarðar, hjúkrunarheimili o.þ.h.
+   - 6.10.1. gr. Almennt.
+   - 6.10.2. gr. Sjúkrahús og hjúkrunar-, dvalar-, hvíldar- og hressingarheimili.
+   - 6.10.3. gr. [Hótel, gistiheimili og gistiskálar.
+   - 6.10.4. gr. Íbúðir og heimavistir fyrir námsmenn (stúdentagarðar).
+- 6.11. KAFLI Aðrar byggingar.
+   - 6.11.1. gr. [Frístundahús.
+   - 6.11.2. gr. Sæluhús, veiðihús, fjallaskálar o.fl.
+   - 6.11.3. gr. Landbúnaðarbyggingar.
+   - 6.11.4. gr. Birgðageymslur vegna hættulegra efna.
+   - 6.11.5. gr. [Bílgeymslur.
+   - 6.11.6. gr. Sérstök mannvirki.
+   - 6.11.7. gr. Þjónustukjarnar.
+   - [6.11.8. gr. Starfsmannabúðir.
+- 6.12. KAFLI Tæknirými.
+   - 6.12.1. gr. Almennt.
+   - 6.12.2. gr. Inntaksrými.
+   - 6.12.3. gr. Klefar fyrir loftræsitæki.
+   - 6.12.4. gr. Töfluherbergi.
+   - 6.12.5. gr. Ræstiklefar.
+   - 6.12.6. gr. [Sorpgeymslur og sorpflokkun.
+   - byggingar. 6.12.7. gr. Innbyggðar sorpgeymslur og sorpgeymslur byggðar í tengslum við
+   - 6.12.8. gr. [Sorpgerði/sorpskýli.]1)
+- 6.13. KAFLI Bréfakassar og dyrasímar.
+   - 6.13.1. gr. Bréfakassar.
+   - 6.13.2. gr. Dyrasímar.
+- 7. HLUTI ÚTISVÆÐI VIÐ MANNVIRKI
+- 7.1. KAFLI Almennar kröfur.
+   - 7.1.1. gr. Markmið.
+   - 7.1.2. gr. Algild hönnun.
+   - 7.1.3. gr. Umferðarleiðir.
+   - 7.1.4. gr. Fallhætta.
+   - 7.1.5. gr. Yfirborðsvatn.
+   - 7.1.6. gr. Dvalar- og leiksvæði.
+- 7.2. KAFLI Lóðir og opin svæði.
+   - 7.2.1. gr. Almennt.
+   - 7.2.2. gr. Tré og runnar á lóðum.
+   - 7.2.3. gr. Girðingar lóða.
+   - 7.2.4. gr. Frágangur lóðar.
+   - 7.2.5. gr. Opin svæði.
+- 8. HLUTI BURÐARÞOL OG STÖÐUGLEIKI
+- 8.1. KAFLI Markmið og almennar kröfur.
+   - 8.1.1. gr. Markmið.
+   - 8.1.2. gr. Stöðvun framkvæmda.
+   - 8.1.3. gr. Breyting á þegar byggðu mannvirki eða breytt notkun.
+   - 8.1.4. gr. Undirstöður.
+   - 8.1.5. gr. Jarðtæknileg rannsókn.
+- 8.2. KAFLI Burðarvirki.
+   - 8.2.1. gr. Almennt.
+   - 8.2.2. gr. Festingar.
+   - 8.2.3. gr. Formbreytingar og óvenjulegt álag.
+   - 8.2.4. gr. Svignun burðarvirkja.
+   - 8.2.5. gr. Hliðarfærsla og titringur burðarvirkja.
+   - 8.2.6. gr. Slagregnsprófun glugga.
+- 8.3. KAFLI Sement og steinsteypa.
+   - 8.3.1. gr. Almennt.
+   - 8.3.2. gr. Gæðamat.
+   - 8.3.3. gr. Virkni steinefna.
+   - 8.3.4. gr. Virk steinefni.
+   - 8.3.5. gr. Prófanir steinefna.
+   - 8.3.6. gr. Saltinnihald og gæði steinefna.
+   - 8.3.7. gr. Útisteypa sem er að mestu laus við saltáhrif.
+   - 8.3.8. gr. Útisteypa sem verður fyrir saltáhrifum.
+   - 8.3.9. gr. Útreikningur á vatnssementstölu.
+   - 8.3.10. gr. Heimild steypustöðvar til framleiðslu.
+   - 8.3.11. gr. Framleiðsla steinsteypu þar sem ekki er steypustöð.
+- 8.4. KAFLI Stál og ál.
+   - 8.4.1. gr. Stál í burðarvirki.
+   - 8.4.2. gr. Tæringarflokkar stáls.
+   - 8.4.3. gr. Ál í burðarvirki.
+   - 8.4.4. gr. Notkun áls þar sem hætta er á tæringu.
+- 8.5. KAFLI Timbur og gler.
+   - 8.5.1. gr. Timbur.
+   - 8.5.2. gr. Gler.
+- [9. HLUTI VARNIR GEGN ELDSVOÐA
+- 9.1. KAFLI Markmið og notkunarflokkar.
+   - 9.1.1. gr. Meginmarkmið.
+   - 9.1.2. gr. Almennt um notkunarflokka.
+   - 9.1.3. gr. Notkunarflokkar.
+   - 9.1.4. gr. Sérstök ákvæði um einstök mannvirki.
+- 9.2. KAFLI Hönnun brunavarna.
+   - 9.2.1. gr. Almennt.
+   - 9.2.2. gr. Aðferðir við hönnun brunavarna.
+   - 9.2.3. gr. Greinargerð og sannprófun lausna.
+   - 9.2.4. gr. Krafa um brunahönnun og áhættumat.
+   - 9.2.5. gr. Staðfesting brunavarna vegna breytinga á þegar byggðum mannvirkjum.
+   - 9.2.6. gr. Þátttaka slökkviliðs í björgun.
+- 9.3. KAFLI Almennar kröfur vegna brunavarna.
+   - 9.3.1. gr. Flatarstærðir, rúmmál og breidd rýmingarleiða.
+   - 9.3.2. gr. Veggsvalir, svalagangar og millipallar innanhúss.
+   - 9.3.3. gr. Brunatákn og flokkun byggingarhluta og - efna.
+   - 9.3.4. gr. Stigahús 1.
+   - 9.3.5. gr. Stigahús 2.
+   - 9.3.6. gr. Stigahús 3.
+   - 9.3.7. gr. Stigar utanhúss.
+- 9.4. KAFLI Öryggisbúnaður vegna brunavarna í byggingum.
+   - 9.4.1. gr. Markmið.
+   - 9.4.2. gr. Sjálfvirk brunaviðvörun.
+   - 9.4.3. gr. Stakir reykskynjarar.
+   - 9.4.4. gr. Handslökkvitæki.
+   - 9.4.5. gr. Slöngukefli.
+   - 9.4.6. gr. Sjálfvirk slökkvikerfi.
+   - 9.4.7. gr. Hurðalokari (pumpa).
+   - 9.4.8. gr. Sjálfvirk reyklosun.
+   - 9.4.9. gr. Reyktálmar.
+   - 9.4.10. gr. Yfirþrýst rými.
+   - 9.4.11. gr. Almenn lýsing á flóttaleiðum.
+   - 9.4.12. gr. Neyðarlýsing.
+   - 9.4.13. gr. Búnaður til að draga úr sprengiþrýstingi.
+- 9.5. KAFLI Rýming við eldsvoða.
+   - 9.5.1. gr. Markmið.
+   - 9.5.2. gr. Flóttaleiðir.
+   - 9.5.3. gr. Aðgengi að flóttaleiðum.
+   - 9.5.4. gr. Ein flóttaleið frá rými.
+   - 9.5.5. gr. Björgunarop.
+   - 9.5.6. gr. Göngulengd flóttaleiða.
+   - 9.5.7. gr. Fólksfjöldi.
+   - 9.5.8. gr. Gerð flóttaleiða.
+   - 9.5.10. gr. Öruggt svæði fyrir hreyfihamlaða.
+   - 9.5.11. gr. Leiðamerkingar á flóttaleiðum.
+- 9.6. KAFLI Varnir gegn útbreiðslu elds og reyks.
+   - 9.6.1. gr. Markmið.
+   - 9.6.2. gr. Ketilkerfi og olíu- og rafhitun.
+   - 9.6.3. gr. Kyndiklefar.
+   - 9.6.4. gr. Olíugeymar og olíuskiljur.
+   - 9.6.5. gr. Eldstæði.
+   - 9.6.6. gr. Reykháfar.
+   - 9.6.7. gr. Sorpgeymslur.
+   - 9.6.8. gr. Veggir, loft og fastar innréttingar.
+   - 9.6.9. gr. Gólfefni.
+   - 9.6.10. gr. Brunaeiginleikar einangrunar.
+   - 9.6.11. gr. Brunahólfun.
+   - 9.6.12. gr. Brunahólfun stærri bygginga.
+   - 9.6.13. gr. Brunamótstaða hurða, hlera og glugga.
+   - 9.6.14. gr. Brunavarnir í loftræsikerfum.
+   - 9.6.15. gr. Þakrými.
+   - 9.6.16. gr. Vörn gegn útbreiðslu elds frá lægra liggjandi þaki.
+   - 9.6.17. gr. Kröfur vegna svalaskýla.
+   - 9.6.18. gr. Sérákvæði um brunavarnir í notkunarflokki 1.
+   - 9.6.19. gr. Sérákvæði um brunavarnir í notkunarflokki 2.
+   - 9.6.20. gr. Sérákvæði um brunavarnir í notkunarflokki 3.
+   - 9.6.21. gr. Sérákvæði um brunavarnir í notkunarflokki 4.
+   - 9.6.22. gr. Sérákvæði um brunavarnir í notkunarflokki 5.
+   - 9.6.23. gr. Starfsemi sem sérstök hætta stafar af.
+   - 9.6.24. gr. Lyftur.
+   - 9.6.25. gr. Háhýsi.
+   - 9.6.26. gr. Gluggar í útveggjum.
+   - 9.6.27.gr. Brunastúkur.
+- 9.7. KAFLI Varnir gegn útbreiðslu elds milli bygginga.
+   - 9.7.1. gr. Varnir gegn útbreiðslu elds.
+   - 9.7.2. gr. Útveggir.
+   - 9.7.3. gr. Yfirborðsfletir útveggja.
+   - 9.7.4. gr. Eldvarnarveggir.
+   - 9.7.5. gr. Bil á milli bygginga.
+   - 9.7.6. gr. Smáhýsi.
+   - 9.7.7. gr. Þakklæðning.
+- 9.8. KAFLI Aðstaða og búnaður vegna aðkomu slökkviliðs.
+   - 9.8.1. gr. Markmið.
+   - 9.8.2. gr. Björgunarsvæði og aðkoma.
+   - 9.8.3. gr. Aðkoma að þakrými og kjallara.
+   - 9.8.4. gr. Reyklosun.
+   - 9.8.5. gr. Stigleiðsla.
+   - 9.8.6. gr. Brunavarnar- og flóttalyftur.
+   - 9.8.7. gr. Merkingar.
+- 9.9. KAFLI Burðarvirki við bruna
+   - 9.9.1. gr. Almennt.
+   - 9.9.2. gr. Burðarvirkjaflokkar.
+   - 9.9.3. gr. Brunamótstaða burðarvirkja – staðlað brunaferli.
+   - 9.9.4. gr. Brunamótstaða svala.
+   - 9.9.5. gr. Hönnun með náttúrulegu brunaferli.
+   - 9.9.6. gr. Yfirtendraður bruni.
+   - 9.9.7. gr. Staðbundinn bruni.
+- 10. HLUTI HOLLUSTA, HEILSA OG UMHVERFI
+- 10.1. KAFLI Almennar hollustukröfur til mannvirkja.
+   - 10.1.1. gr. Meginmarkmið.
+   - 10.1.2. gr. Breytt notkun þegar byggðra mannvirkja.
+   - [10.1.3. gr. Framsetning krafna.
+- 10.2. KAFLI Loftgæði og loftræsing.
+   - 10.2.1. gr. Markmið.
+   - 10.2.2. gr. Almennt um loftræsingu.
+   - 10.2.3. gr. Ferskloft, uppblöndun lofts og mengandi svæði.
+   - 10.2.4. gr. Loftinntak og útblástursop.
+   - 10.2.5. gr. [Loftræsing íbúða og tengdra rýma.
+   - [10.2.6. gr. Loftræsing í skólum og sambærilegum byggingum.
+   - [10.2.7. gr. Loftræsing atvinnuhúsnæðis.
+   - [10.2.8. gr.]1) Mesta leyfilegt magn CO 2 í innilofti.
+- 10.3. KAFLI Þægindi innilofts.
+   - 10.3.1. gr. Markmið.
+   - 10.3.2. gr. Innivist.
+- 10.4. KAFLI Birta og lýsing.
+   - 10.4.1. gr. Markmið.
+   - 10.4.2. gr. Kröfur.
+- 10.5. KAFLI Raki.
+   - 10.5.1. gr. Markmið.
+   - 10.5.2. gr. Varnir gegn óþægindum og skemmdum vegna raka og vatns.
+   - 10.5.3. gr. Varnir vegna úrkomu.
+   - 10.5.4. gr. [Regnvörn þaka og lágmarkshalli.
+   - 10.5.5. gr. Varnir gegn rakaþéttingu.
+   - 10.5.6. gr. Raki í byggingarefni.
+   - 10.5.7. gr. Votrými.
+- 10.6. KAFLI Mengun vegna byggingarefna.
+   - 10.6.1. gr. Markmið.
+   - 10.6.2. gr. Kröfur.
+- 10.7. KAFLI Þrif mannvirkja og meindýr.
+   - 10.7.1. gr. Markmið.
+   - 10.7.2. gr. Kröfur.
+- 11. HLUTI HLJÓÐVIST
+- 11.1. KAFLI Varnir gegn hávaða.
+   - 11.1.1. gr. Markmið.
+   - 11.1.2. gr. Kröfur.
+   - 11.1.3. gr. Staðfesting hljóðvistar vegna breytinga þegar byggðra mannvirkja.
+- 12. HLUTI ÖRYGGI VIÐ NOTKUN
+- 12.1. KAFLI Almennt um öryggi.
+   - 12.1.1. gr. Markmið.
+   - 12.1.2. gr. Breytt notkun þegar byggðra mannvirkja.
+   - [12.1.3. gr. Merkingar vegna flugumferðaröryggis.
+- 12.2. KAFLI Vörn gegn falli.
+   - 12.2.1. gr. Birta og lýsing umferðarleiða.
+   - 12.2.2. gr. Yfirborð gólfflata.
+   - 12.2.3. gr. Öryggi vegna hæðarmunar.
+   - 12.2.4. gr. Öryggi stiga, skábrauta o.fl.
+   - 12.2.5. gr. Op og gryfjur í byggingum.
+   - 12.2.6. gr. Öryggi vegna þaka.
+- 12.3. KAFLI Innréttingar, búnaður, útstandandi og hreyfanlegir hlutir o.fl.
+   - 12.3.1. gr. Almennt.
+   - 12.3.2. gr. Fastar innréttingar og búnaður.
+   - 12.3.3. gr. Hreyfanlegur búnaður innanhúss.
+- 12.4. KAFLI Gler í byggingum.
+   - 12.4.1. gr. Óvarið gler.
+   - 12.4.2. gr. Merking glerveggja og glerhurða.
+   - 12.4.3. gr. Fallhæð við glervegg eða glugga.
+   - 12.4.4. gr. Önnur slysahætta vegna glers.
+- 12.5. KAFLI Varnir gegn brunaslysum.
+   - 12.5.1. gr. Markmið.
+   - 12.5.2. gr. Kröfur.
+- 12.6. KAFLI Varnir gegn sprengingum.
+   - 12.6.1. gr. Eldfim og sprengifim efni.
+- 12.7. KAFLI Varnir gegn innilokun.
+   - 12.7.1. gr. Kröfur.
+- 12.8. KAFLI Varnir gegn eitrun.
+   - 12.8.1. gr. Kröfur.
+- 12.9. KAFLI Varnir gegn bruna og öðrum slysum af völdum rafmagns.
+   - 12.9.1. gr. Kröfur.
+- 12.10. KAFLI Varnir gegn slysum á lóð.
+   - 12.10.1. gr. Aðkoma og umferðarleiðir.
+   - 12.10.2. gr. Leiksvæði og leikvallatæki.
+   - 12.10.3. gr. Hreyfanlegur búnaður.
+   - 12.10.4. gr. Varnir gegn drukknun.
+- 13. HLUTI ORKUSPARNAÐUR OG HITAEINANGRUN
+- 13.1. KAFLI Almennt um orkusparnað.
+   - 13.1.1. gr. Markmið.
+- 13.2. KAFLI Heildarorkuþörf, ákvörðun U-gilda og heildarleiðnitap.
+   - 13.2.1. gr. Heildarorkuþörf.
+   - 13.2.2. gr. Ákvörðun U-gilda.
+   - 13.2.3. gr. Útreikningur heildarleiðnitaps.
+   - 13.2.4. gr. Upplýst um leiðnitap og einstök U-gildi.
+- 13.3. KAFLI Mesta leiðnitap byggingarhluta.
+   - 13.3.1. gr. Almennt um leiðnitap og U-gildi byggingarhluta.
+   - 13.3.2. gr. Hámark U-gildis – ný mannvirki og viðbyggingar.
+   - 13.3.3. gr. Hámark U-gildis – viðhald og/eða endurbygging byggingarhluta.
+- 13.4. KAFLI Raka- og vindvarnir.
+   - 13.4.1. gr. Kröfur.
+- 13.5. KAFLI Loftþéttleiki húsa.
+   - 13.5.1. gr. Kröfur.
+- 14. HLUTI LAGNIR OG TÆKNIBÚNAÐUR
+- 14.1. KAFLI Almennt um lagnir og tæknibúnað.
+   - 14.1.1. gr. Meginmarkmið.
+- 14 .2. KAFLI Hita- og kælikerfi.
+   - 14.2.1. gr. Markmið.
+   - 14.2.2. gr. Stýribúnaður.
+   - 14 .2.3. gr. Dælubúnaður.
+   - 14.2.4. gr. Festingar.
+   - 14.2.5. gr. Frágangur á pípulögn.
+   - 14.2.6. gr. Afkastageta.
+   - 14 .2.7. gr. Varmagjafar.
+   - 14.2.8. gr. Afloftun vatnshitakerfis.
+   - 14.2.9. gr. Áfyllingarbúnaður.
+   - 14.2.10. gr. Hljóðvistarkröfur.
+- 14.3. KAFLI Hitakerfi tengd hitaveitu.
+   - 14.3.1. gr. Markmið.
+   - 14.3.2. gr. Efniskröfur.
+   - 14.3.3. gr. Tengigrind og tenging við veitukerfi.
+   - 14.3.4. gr. Stillibúnaður.
+   - 14.3.5. gr. Öryggisloki.
+   - 14 .3.6. gr. Bakrennslisvatn.
+   - 14.3.7. gr. Þrýstiprófun.
+- 14.4. KAFLI Ketilkerfi og ketilrými.
+   - 14.4.1. gr. Ketilrými.
+   - 14.4.2. gr. Ketilkerfi, olíu- og rafhitun.
+- 14.5. KAFLI Neysluvatnskerfi.
+   - 14.5.1. gr. Markmið.
+   - 14.5.2. gr. Efniskröfur.
+   - 14 .5.3. gr. Tenging við veitukerfi.
+   - 14.5.4. gr. Festingar.
+   - 14.5.5. gr. Þéttleiki og þrýstiprófun.
+   - 14.5.6. gr. Frágangur á pípulögn.
+   - 14.5.7. gr. Hljóðvistarkröfur.
+   - 14.5.8. gr. Afkastageta.
+   - 14.5.9. gr. Hollusta.
+   - 14.5.10. gr. Öryggi.
+- 14.6. KAFLI Fráveitulagnir.
+   - 14.6.1. gr. Markmið.
+   - 14.6.2. gr. Fráveitulagnir undir neðstu plötu.
+   - 14.6.3. gr. Frárennsli við töppunarstaði.
+   - 14.6.4. gr. Varasöm eða hættuleg efni.
+   - 14.6.5. gr. Gólfniðurföll.
+   - 14.6.6. gr. Öryggisbúnaður.
+   - 14.6.7. gr. Loftun frárennslislagna.
+   - 14.6.8. gr. Bakrennsli (öfugflæði).
+   - 14.6.9. gr. Stærðarákvörðun.
+- 14.7. KAFLI Raflagnakerfi og raforkuvirki.
+   - 14.7.1. gr. Kröfur.
+- 14.8. KAFLI Gaslagnir.
+   - 14.8.1. gr. Gaslagnir í atvinnuhúsnæði.
+   - 14.8.2. gr. Gaslagnir á heimilum.
+- 14.9. KAFLI Loftræsibúnaður.
+   - 14.9.1. gr. Almennar kröfur.
+   - 14.9.2. gr. Orkunotkun.
+- 14.10. KAFLI Olíuþrýstikerfi, þrýstiloft o.fl.
+   - 14.10.1. gr. Almennar kröfur.
+- 14.11. KAFLI Lyftur.
+   - 14.11.1. gr. Almennar kröfur.
+   - 14.11.2. gr. Lyftugöng, vélarrými og loftræsing.
+- 14.12. KAFLI Rennistigar, sjálfvirkir hurða- og gluggaopnarar og annar tæknibúnaður.
+   - 14.12.1. gr. Almennar kröfur.
+- OG NIÐURRIFSÚRGANGS 15. HLUTI MENGUN FRÁ MANNVIRKJUM OG MEÐHÖNDLUN BYGGINGAR-
+- 15.1. KAFLI Verndun náttúrufars og varnir gegn mengun.
+   - 15.1.1. gr. Markmið.
+   - 15.1.2. gr. Mengað byggingarsvæði.
+- 15.2. KAFLI Efnisval og úrgangur.
+   - 15.2.1. gr. Almennt.
+   - 15.2.2. gr. Áætlun um meðhöndlun.
+   - 15.2.3. gr. Skrá yfir hættuleg efni.
+   - 15.2.4. gr. Meðhöndlun byggingar- og niðurrifsúrgangs.
+- 16. HLUTI REKSTUR, VIÐHALD OG NOTKUN – HANDBÆKUR
+- 16.1. KAFLI Afhending handbókar.
+   - 16.1.1. gr. Almennar kröfur.
+- 17. HLUTI. ÝMIS ÁKVÆÐI
+- 17.1. KAFLI Refsiábyrgð og gildistaka.
+   - 17.1.1. gr. Refsiábyrgð.
+   - 17.1.2. gr. Gildistaka.
+- Ákvæði til bráðabirgða.
+- VIÐAUKI I
+- Flokkun byggingarhluta og brunatákn.
+- VIÐAUKI II
+   - lokaúttektar. Skoðunarhandbók um yfirferð hönnunargagna og framkvæmd áfanga-, öryggis- og
+- ATRIÐISORÐASKRÁ
+
+
+```
+Tók gildi 8. febrúar 2012. Breytt með reglug. nr 1173/2012 (tók gildi 21. des. 2012), reglug.
+nr. 350/2013 (tók gildi 19. apríl 2013), reglug. nr. 280/2014 (tók gildi 20. mars 2014) ), reglug.
+nr. 360/2016 (tók gildi 2. maí 2016), reglug. nr. 666/2016 (tók gildi 20. júlí 2016), reglug. nr.
+722/2017 (tók gildi 11. ágúst 2017) og reglug. nr. 1278/2018 (tók gildi 28. desember 2018).
+```
+BYGGINGARREGLUGERÐ
+

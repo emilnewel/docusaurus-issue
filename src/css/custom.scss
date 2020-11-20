@@ -1,0 +1,230 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+@font-face {
+  font-family: "Setimo";
+  src: url("/fonts/Setimo_Rg.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Setimo";
+  src: url("/fonts/Setimo_Bd.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Setimo";
+  src: url("/fonts/Setimo_It.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Setimo";
+  src: url("/fonts/Setimo_BdIt.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Setimo";
+  src: url("/fonts/Setimo_Lt.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Setimo";
+  src: url("/fonts/Setimo_LtIt.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+
+  --ifm-color-primary-lightest: #162c4b;
+  --ifm-color-primary-lighter: #142743;
+  --ifm-color-primary-light: #132540;
+  --ifm-color-primary: #11223a;
+  --ifm-color-primary-dark: #0f1f34;
+  --ifm-color-primary-darker: #0e1d31;
+  --ifm-color-primary-darkest: #0c1829;
+  --ifm-font-family-base: 'Setimo';
+  --ifm-code-font-size: 95%;
+  --hms-text-base: #000;
+  --hms-text-light: #7a7a7a;
+  --hms-color-bg-white: #FFFFFF;
+  --hms-color-bg-grey: #FAFAFA;
+  --hms-color-dark-blue: #4e5a68;
+  --hms-color-primary-base: #8cc0c6;
+  --hms-color-primary-dark: #11223A;
+  --hms-color-secondary-gold: #b39271;
+  --doc-sidebar-width: 440px;
+}
+
+
+
+
+
+.navbar.navbar--fixed-top {
+  box-shadow: 0px 11px 20px 1px rgba(0, 0, 0, 0.11);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+div[class^='docSidebarContainer'] {
+  width: 460px;
+  border: 0;
+}
+
+div[class*='docSidebarContainerHidden'] { 
+  width: 25px;
+}
+
+div[class*='DocSidebar'] {
+  border-right: 1px solid rgba(0, 0, 0, 0.05);
+  background-color: #FAFAFA; 
+}
+
+div[class^='docItemContainer'] {
+  display: flex;
+  flex-direction: column;
+  padding-top: 60px;
+  padding-left: 222px;
+
+  img {
+    width: 100%;
+  }
+}
+
+div[class^='docItemContainer'] {
+  padding: 48px 120px 120px 120px;
+  overflow: visible;
+}
+
+button[title='Collapse sidebar'] {
+  position: fixed;
+  top: 50vh;
+  left: 410px;
+  background-color: white;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+  background: url('/img/arrows.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: white;
+}
+
+div[title='Expand sidebar'] {
+  position: fixed;
+  top: 50vh;
+  left: -25px;
+  background-color: white;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid #ebedf0;
+  background: url('/img/arrows.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: white;
+}
+
+.menu {
+  padding-left: 49px;
+  padding-top: 60px;
+}
+
+.menu__list {
+
+  counter-reset: list-counter;
+
+  .menu__list-item {
+
+    .menu__link--sublist {
+      color: var(--hms-color-secondary-gold);
+      font-size: 20px;
+      line-height: 32px;
+      font-style: normal;
+      font-weight: 700;
+    }
+
+    .menu__list-item {
+      display: flex;
+      counter-increment: list-counter;
+      border-bottom: 1px solid #dfe1e2;
+      max-width: 400px;
+      padding: 32px 0px 32px 0;
+
+      .menu__link { 
+        padding: 0;
+
+        padding-left: 16px;
+      }
+      
+      a {
+        color: var(--hms-color-dark-blue);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 28.8px;
+
+
+        &:hover {
+          background: var(--hms-color-bg-grey);
+        }
+        
+        &::before {
+          content: counter(list-counter) ". ";
+          margin-right: 8px;
+          font-weight: 400;
+        }
+      }
+  
+    }
+
+
+    .menu__link--active:not(.menu__link--sublist) {
+      background: var(--hms-color-bg-grey);
+    }
+  }
+  
+}
+
+
+h2 {
+  color: var(--hms-color-primary-dark);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+h3 {
+  color: #4e5a68;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 28.8px;
+  
+}
