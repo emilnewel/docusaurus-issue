@@ -39,12 +39,6 @@ const sortedChapters = reglugerd.sort((a, b) => compareChapter(a, b));
 module.exports = {
   someSidebar: {
     Efnisyfirlit: sortedChapters,
-    // Kafli1: [
-    //   "Kafli1 Enginn undirkafli",
-    //   {
-    //     "Kaflli2 með undirkafla": ["undirfafli1", "undirkafli2", "undirkafli3"],
-    //   },
-    // ],
   },
 };
 

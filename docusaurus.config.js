@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "KaktusKreatives", // Usually your GitHub org/user name.
+  organizationName: "emilnewel", // Usually your GitHub org/user name.
   projectName: "byggingarreglugerd.is", // Usually your repo name.
   plugins: ["my-loaders"],
   themeConfig: {

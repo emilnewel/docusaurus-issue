@@ -1,7 +1,12 @@
 ---
-id: Kafli1 Enginn undirkafli
+id: mdx
 title: Powered by MDX
+slug: /
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+<img alt="FLott hus" src={useBaseUrl('img/flotthus.png')} />
 
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
 
